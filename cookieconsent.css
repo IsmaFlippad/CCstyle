@@ -207,7 +207,7 @@ html.disable--interaction.show--consent body {
   opacity: 0;
   overflow: hidden;
   position: fixed;
-  transform: translateY(1.6em);
+  transform: translateX(1.6em);
   visibility: hidden;
   z-index: 1;
 }
@@ -544,7 +544,7 @@ html.disable--interaction.show--consent body {
 }
 .show--consent #cc-main .cc--anim .cm {
   opacity: 1;
-  transform: translateY(0);
+  transform: translateX(0);
   visibility: visible !important;
 }
 .show--consent #cc-main .cc--anim .cm--middle {
