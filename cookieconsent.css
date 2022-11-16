@@ -256,15 +256,16 @@ html.disable--interaction.show--consent body {
   padding-bottom: 0;
 }
 #cc-main .cm__title {
-  font-size: 0.95em;
+  font-size: 0.9em;
+  font-weight: 400;
 }
 #cc-main .cm__title + .cm__desc {
   margin-top: 1.1em;
 }
 #cc-main .cm__desc {
   color: var(--cc-secondary-color);
-  font-size: 0.9em;
-  line-height: 1.25;
+  font-size: 0.85em;
+  line-height: 1.15;
   max-height: 40vh;
   overflow-x: visible;
   overflow-y: auto;
